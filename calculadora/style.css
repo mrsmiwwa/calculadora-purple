@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@100;200;300;400;500;600&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,100&family=Rambla&display=swap');
+body {
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+}
+
+input{
+    color: #fff;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    border-radius: 25%;
+}
+
+.num {
+    width: 64px;
+    height: 67px;
+}
+
+.text{
+    width: 160px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+.text1{
+    width: 24px;
+    height: 26px;
+    border-radius: 50%;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+.main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: #000;
+
+}
+
+.blue {
+    background-color: rgb(141, 10, 228);
+}
+
+.pin{
+    background-color: rgb(141, 10, 228);
+}
+
+.gre{
+    background-color: rgb(141, 10, 228);
+}
+
+.pur {
+    background-color: rgb(141, 10, 228);
+}
+
+.ora{
+    background-color: rgb(141, 10, 228);
+}
